@@ -1,0 +1,155 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Sitio Web Maxseguridad SAC  - Este Sitio se encuentra en Construccion</title>
+<style type="text/css">
+<!--
+.Estilo1 {font-family: Verdana, Arial, Helvetica, sans-serif}
+.Estilo3 {font-size: 12px}
+.Estilo5 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.Estilo6 {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.Estilo8 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; }
+.Estilo11 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000033; }
+-->
+</style>
+</head>
+<body>﻿
+<style type="text/css"><!--
+body,td,th {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 11px;
+color: #666666;
+}
+body {
+background-color: #666666;
+}
+a {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+a:link {
+text-decoration: none;
+color: #333333;
+}
+a:visited {
+text-decoration: none;
+color: #333333;
+}
+a:hover {
+text-decoration: none;
+color: #333333;
+}
+a:active {
+text-decoration: none;
+color: #333333;
+}
+h1,h2,h3,h4,h5,h6 {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.Estilo2 {
+font-size: 18px;
+font-weight: bold;
+}
+--></style>
+<script type="text/javascript" src="Scripts/AC_RunActiveContent.js"></script>
+<table height="464" cellspacing="0" cellpadding="0" width="730" align="center" border="0">
+<tbody>
+<tr>
+<td bgcolor="#ffffff" colspan="2" height="111"><img src="main_under.jpg" width="800" height="200" /></td>
+</tr>
+<tr>
+<td width="375" bgcolor="#CCCCCC" height="308">
+  <table style="width: 316px; height: 365px" height="424" cellspacing="0" cellpadding="0" width="326" align="center" border="0">
+<tbody>
+<tr>
+<td width="326" bgcolor="#CCCCCC" height="424"><p class="Estilo8">Para mayor informacion sirvase contactarnos a: </p>
+<ul>
+  <li class="Estilo11">
+    <div align="justify"><strong>Maxseguridad S.A.C. </strong>Somos una empresa que se inicia con personas de alta experiencia en el rubro. Queremos ayudarle a resolver sus requerimientos de implementos de seguridad y ferretería, uno de nuestros principales objetivos es la atención inmediata ya que contamos con una amplia gama de distribuidores e importadores que nos proveen distintas marcas las cuales son altamente reconocidas, venimos trabajando con ellos durante mucho tiempo atrás. <br />
+      Tenemos la distribucion de las siguientes marcas: 3M, MSA, NORTH, ARSEG, CLUTE, STEELPRO, KIMBERLY-CLARK, SPRO, BELL, PANOPLY, DELTA PLUS, PROTEX, UVEX, MAPA, DUTEH, ANYPSA, STANLEY, SOLDIMIX, YALE, DEWALT, BOSH, SHURTAPE, TRAMONTINA, BELLOTA, BTICINO, FORTE, SK, CAT.<br />
+    </div>
+  </li>
+<li class="Estilo11"><strong>Direccion :<br />
+  </strong>Av. Jose Galvez 120 La Victoria - Lima - Peru <br />
+</li>
+<li class="Estilo11"><strong>Telefono :</strong>&nbsp;<br />
+(511) 240-1212  </li>
+<li class="Estilo11"> <strong>Movil</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
+  973-979-684, 941-434-525</li>
+<li class="Estilo11"><strong>E-mail :</strong><br />
+  <a href="mailto:ventas@maxseguridad.com.pe">ventas@maxseguridad.com.pe </a> <br />
+</li>
+<li><span class="Estilo11"><strong>Sitio Web :</strong> <br />
+  <a href="http://www.maxseguridad.com.pe">www.maxseguridad.com.pe</a></span></li>
+<li><span class="Estilo11"><strong>Ubicanos con :</strong> <br />
+  </span><a href="http://www.maxseguridad.com.pe/maps.php" target="_blank"><img src="logo_maps.png" alt="Mira nuestra Ubicacion, haz click aqui" width="52" height="55" longdesc="http://www.bignoseonline.com/maps.php" align="right" /></a><br />
+</li>
+</ul></td>
+</tr></tbody></table>
+  <p>&nbsp;</p></td>
+<td width="425" bgcolor="#CCCCCC">
+<form id="form1" name="form1" method="post" action="envia.php">
+  <table height="288" cellspacing="0" cellpadding="0" width="358" align="center" border="0">
+<tbody>
+<tr>
+<td colspan="4" height="34">
+<p class="Estilo11">Tambien puedes enviarnos un mensaje a :</p></td>
+</tr>
+<tr>
+<td width="8" height="35">&nbsp;</td>
+<td width="170">
+<div align="right" class="Estilo11">Nombres y Apellidos :</div></td>
+<td width="163"><label><input id="nombre" name="nombre" /> </label></td>
+<td width="17">&nbsp;</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td>
+<div align="right" class="Estilo11">Telefonos :</div></td>
+<td><label><input id="fono" name="fono" /> </label></td>
+<td>&nbsp;</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td>
+<div align="right" class="Estilo11">E-Mail :</div></td>
+<td><label><input id="correo" name="correo" /> </label></td>
+<td>&nbsp;</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td>
+<div align="right" class="Estilo11">Empresa&nbsp;:</div></td>
+<td><label><input id="empresa" name="empresa" /> </label></td>
+<td>&nbsp;</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td>
+<div align="right" class="Estilo11">Comentarios :</div></td>
+<td><label><textarea id="info" name="info" rows="3"></textarea> </label></td>
+<td>&nbsp;</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td><label><input id="button" type="submit" value="Enviar" name="button" /> <input id="button2" type="reset" value="Borrar" name="button2" /> </label></td>
+<td>&nbsp;</td></tr></tbody></table>
+</form></td></tr>
+<tr>
+<td bgcolor="#007FC4">
+<table height="25" cellspacing="0" cellpadding="0" width="65" border="0">
+<tbody>
+<tr>
+<td width="65" bgcolor="#007FC4">
+<div align="right"><a href="http://www.maxseguridad.com.pe/webmail" class="Estilo5">Web Mail</a></div></td></tr></tbody></table></td>
+<td bgcolor="#007FC4">
+<table height="26" cellspacing="0" cellpadding="0" width="232" align="right" border="0">
+<tbody>
+<tr>
+<td width="255">
+<div align="center"><a href="http://www.intercom.pe" target="_blank" class="Estilo3"><span class="Estilo1"><span class="Estilo6">Powered By</span> <font color="##FF4000"><strong>INTERCOM</strong></font></span></a></div></td></tr></tbody></table></td></tr></tbody></table>
+</body>
+</html>
