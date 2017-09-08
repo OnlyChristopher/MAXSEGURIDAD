@@ -2614,7 +2614,7 @@ img.secondary-img {
 	font-weight: 400;
 	font-size: 14px;
 	color: #FF8000;
-	fo
+
 }
 .jtv-category-area .product-img {
 	float: left;
@@ -3187,7 +3187,8 @@ footer .social ul {
 }
 .payment {
 	margin-top: 10px;
-	margin-bottom:10px display: inline-block;
+	margin-bottom:10px;
+	display: inline-block;
 	width: 100%;
 	text-align: right;
 }

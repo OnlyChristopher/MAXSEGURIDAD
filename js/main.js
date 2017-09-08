@@ -65,7 +65,7 @@ jQuery("#featured-slider .slider-items").owlCarousel({
 		navigationText: ['<a class="flex-prev"></a>', '<a class="flex-next"></a>'],
 		slideSpeed: 500,
 		pagination: !1,
-		autoPlay: false
+		autoPlay: true
 	}),
 
 
@@ -401,6 +401,7 @@ if (typeof Typist == 'function') {
 		textInterval: 3000
 	});
 }
+    console.log("%c Site developed with -  by @OnlyChristopher","background: #2c3e50; padding:5px; font-size: 13px; color: #ffffff");
 
-})
+});
 
