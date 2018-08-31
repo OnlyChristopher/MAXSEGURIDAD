@@ -136,4 +136,4 @@ function hideMegamenuMenu() {
 	jQuery('.mtmegamenu .menu-items.active').removeClass('active');
 }
 
-function unitActiveItem() {};;
+function unitActiveItem() {};

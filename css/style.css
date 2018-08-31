@@ -7003,7 +7003,7 @@ a.button-back:hover {
 	left: 0px;
 	animation: move 1s ease infinite;
 	margin-top: 150px;
-	color: red;
+	color: #FF8000;
 }
 @keyframes move {
 	50% {
