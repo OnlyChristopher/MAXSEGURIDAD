@@ -1002,7 +1002,7 @@
                                             </a>
                                             <div class="pr-info-area animated animate2">
                                                 <a href="quick_view.html"
-                                                                                           class="quick-view"><i
+                                                   class="quick-view"><i
                                                             class="fa fa-search"><span>Quick view</span></i></a>
 
                                             </div>
@@ -1010,7 +1010,8 @@
                                         <div class="item-info">
                                             <div class="info-inner">
                                                 <div class="item-title"><a title="MAMELUCO DRILL CLASE 2 "
-                                                                           href="single_product.html">MAMELUCO DRILL CLASE 2 </a>
+                                                                           href="single_product.html">MAMELUCO DRILL
+                                                        CLASE 2 </a>
                                                 </div>
 
                                             </div>
