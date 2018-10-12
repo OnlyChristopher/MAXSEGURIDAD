@@ -401,6 +401,12 @@ if (typeof Typist == 'function') {
 		textInterval: 3000
 	});
 }
+
+	var element  = document.querySelector('.products');
+	$('.mm-toggle').on('click',function () {
+        element.parentElement.children[0].click();
+    });
+
     console.log("%c Site developed with -  by @OnlyChristopher","background: #2c3e50; padding:5px; font-size: 13px; color: #ffffff");
 
 });

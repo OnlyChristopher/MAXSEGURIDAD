@@ -885,6 +885,15 @@ select.cate-dropdown {
 	border: none;
 	color: #fff
 }
+#mobile-search a{
+	color:#FF8000;
+}
+.products{
+	background: #FF8000;
+}
+a.products{
+	color: #fff !important;
+}
 @media (max-width:767px) {
 	.top-search .modal-lg {
 		width: 95%
