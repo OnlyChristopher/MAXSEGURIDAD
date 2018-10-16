@@ -1,5 +1,19 @@
 ﻿<!DOCTYPE html>
-<html lang="es">
+<!--
+  __  __   _   __  _____ ___ ___ _   _ ___ ___ ___   _   ___
+ |  \/  | /_\  \ \/ / __| __/ __| | | | _ \_ _|   \ /_\ |   \
+ | |\/| |/ _ \  >  <\__ \ _| (_ | |_| |   /| || |) / _ \| |) |
+ |_|  |_/_/ \_\/_/\_\___/___\___|\___/|_|_\___|___/_/ \_\___/
+
+Design by:
+——————————
+Christopher Ramirez
+📧Christopher.Ramirez@outlook.es
+🔌@onlychristopher
+📍Lima, PE
+
+-->
+<html lang="es_PE">
 <head>
     <!-- Basic page needs -->
     <meta charset="utf-8">
@@ -9,6 +23,11 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>MAXSEGURIDAD - Articulos de Seguridad Industrial</title>
     <meta name="description" content="Articulos de Seguridad Industrial">
+    <meta property="og:locale" content="es_PE">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="MAXSEGURIDAD - Articulos de Seguridad Industrial">
+    <meta property="og:url" content="http://www.maxseguridad.com.pe/">
+    <meta property="og:site_name" content="MAXSEGURIDAD">
     <!-- Mobile specific metas  -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Favicon  -->
