@@ -269,14 +269,14 @@
               <ul>
                 <li class="mt-root demo_custom_link_cms">
                   <div class="mt-root-item">
-                    <a href="index-2.html">
+                    <a href="/">
                       <div class="title title_font"><span class="title-text">Inicio</span></div>
                     </a>
                   </div>
                 </li>
                 <li class="mt-root">
                   <div class="mt-root-item">
-                    <a href="about_us.html">
+                    <a href="/">
                       <div class="title title_font"><span class="title-text">Nosotros</span></div>
                     </a>
                   </div>

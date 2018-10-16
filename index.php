@@ -170,7 +170,7 @@
                 <div class="row">
                     <div class="col-sm-4 col-md-3 col-xs-12">
                         <!-- Header Logo -->
-                        <div class="logo"><a title="MAXSEGURIDAD" href="index-3.html"><img alt="e-commerce"
+                        <div class="logo"><a title="MAXSEGURIDAD" href="/"><img alt="e-commerce"
                                                                                            src="images/logo_max_seguridad.png"></a>
                         </div>
                         <!-- End Header Logo -->
@@ -180,14 +180,14 @@
                             <ul>
                                 <li class="mt-root demo_custom_link_cms">
                                     <div class="mt-root-item">
-                                        <a href="index-2.html">
+                                        <a href="/">
                                             <div class="title title_font"><span class="title-text">Inicio</span></div>
                                         </a>
                                     </div>
                                 </li>
                                 <li class="mt-root">
                                     <div class="mt-root-item">
-                                        <a href="about_us.html">
+                                        <a href="/">
                                             <div class="title title_font"><span class="title-text">Nosotros</span></div>
                                         </a>
                                     </div>
@@ -243,7 +243,7 @@
                                                     </div>
                                                 </li>
                                                 <li class="menu-item">
-                                                    <div class="title"><a href="quick_view.html"> Quick View </a></div>
+                                                    <div class="title"><a href="#"> Quick View </a></div>
                                                 </li>
                                             </ul>
                                         </li>
@@ -296,7 +296,7 @@
                                             <div class="title title_font"><a href="#"> Single Product Pages </a></div>
                                             <ul class="submenu">
                                                 <li class="menu-item">
-                                                    <div class="title"><a href="single_product.html"> single
+                                                    <div class="title"><a href="#"> single
                                                             product </a>
                                                     </div>
                                                 </li>
@@ -393,7 +393,7 @@
                                                     <div class="col-sm-6">
                                                         <ul class="nav">
                                                             <li><a href="#">BOTAS DE PVC</a></li>
-                                                            <li><a href="shop_grid-2.html">BOTAS DE JEBE</a></li>
+                                                            <li><a href="#">BOTAS DE JEBE</a></li>
                                                             <li><a href="#">PUNTERAS REMOVIBLES</a></li>
                                                         </ul>
                                                     </div>
@@ -419,7 +419,7 @@
                                                     <div class="col-sm-6">
                                                         <ul class="nav">
                                                             <li><a href="#">PANTALON DENIM</a></li>
-                                                            <li><a href="shop_grid-2.html">PANTALON DRILL</a></li>
+                                                            <li><a href="#">PANTALON DRILL</a></li>
                                                             <li><a href="#">CAMISA DENIM</a></li>
                                                             <li><a href="#">CAMISA DRILL</a></li>
                                                             <li><a href="#">GUADAPOLVOS</a></li>
@@ -453,7 +453,7 @@
                                                     <div class="col-sm-6">
                                                         <ul class="nav">
                                                             <li><a href="#">GUANTES SINTETICOS</a></li>
-                                                            <li><a href="shop_grid-2.html">GUANTES TEJIDOS</a></li>
+                                                            <li><a href="#">GUANTES TEJIDOS</a></li>
                                                         </ul>
                                                     </div>
                                                     <div class="col-sm-6 has-sep">
@@ -476,7 +476,7 @@
                                                     <div class="col-sm-6">
                                                         <ul class="nav">
                                                             <li><a href="#">CASCOS</a></li>
-                                                            <li><a href="shop_grid-2.html">GORRAS DESECHABLES</a></li>
+                                                            <li><a href="#">GORRAS DESECHABLES</a></li>
                                                             <li><a href="#">GORRAS EN DRILL</a></li>
                                                         </ul>
                                                     </div>
@@ -501,7 +501,7 @@
                                                     <div class="col-sm-6">
                                                         <ul class="nav">
                                                             <li><a href="#">TAPONES DE OIDO</a></li>
-                                                            <li><a href="shop_grid-2.html">OREJERA TIPO VINCHA</a></li>
+                                                            <li><a href="#">OREJERA TIPO VINCHA</a></li>
                                                         </ul>
                                                     </div>
                                                     <div class="col-sm-6 has-sep">
@@ -525,8 +525,8 @@
                                                     <div class="col-sm-6">
                                                         <ul class="nav">
                                                             <li><a href="#">CARA COMPLETA</a></li>
-                                                            <li><a href="shop_grid-2.html">MEDIA CARA</a></li>
-                                                            <li><a href="shop_grid-2.html">DESCARTABLES</a></li>
+                                                            <li><a href="#">MEDIA CARA</a></li>
+                                                            <li><a href="#">DESCARTABLES</a></li>
                                                         </ul>
                                                     </div>
                                                     <div class="col-sm-6 has-sep">
@@ -550,7 +550,7 @@
                                                     <div class="col-sm-6">
                                                         <ul class="nav">
                                                             <li><a href="#">LENTES CLASICOS</a></li>
-                                                            <li><a href="shop_grid-2.html">LENTES GOGGLES</a></li>
+                                                            <li><a href="#">LENTES GOGGLES</a></li>
                                                         </ul>
                                                     </div>
                                                     <div class="col-sm-6 has-sep">
@@ -700,13 +700,13 @@
                                     <div class="item-inner">
                                         <div class="product-thumb has-hover-img">
                                             <a title="RESPIRADOR 7500"
-                                               href="single_product.html">
+                                               href="#">
                                                 <figure><img src="images/products/img01.jpg" alt=""> <img
                                                             class="hover-img" src="images/products/img01.jpg" alt="">
                                                 </figure>
                                             </a>
                                             <div class="pr-info-area animated animate2">
-                                                <a href="quick_view.html" class="quick-view"><i
+                                                <a href="#" class="quick-view"><i
                                                             class="fa fa-search"><span>Quick view</span></i></a>
                                                 <!--                                      <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a>-->
                                                 <!--                                      <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a>-->
@@ -715,7 +715,7 @@
                                         <div class="item-info">
                                             <div class="info-inner">
                                                 <div class="item-title"><a title="RESPIRADOR 7500"
-                                                                           href="single_product.html">RESPIRADOR
+                                                                           href="#">RESPIRADOR
                                                         7500 </a>
                                                 </div>
                                                 <!-- <div class="item-content">
@@ -733,13 +733,13 @@
                                     <div class="item-inner">
                                         <div class="product-thumb has-hover-img">
                                             <a title="ESPIRADOR 6800"
-                                               href="single_product.html">
+                                               href="#">
                                                 <figure><img class="first-img" src="images/products/img02.jpg" alt="">
                                                     <img class="hover-img" src="images/products/img02.jpg" alt="">
                                                 </figure>
                                             </a>
-                                            <div class="pr-info-area animated animate4">
-                                                <a href="quick_view.html" class="quick-view"><i
+                                            <div class="pr-info-area animated animate2">
+                                                <a href="#" class="quick-view"><i
                                                             class="fa fa-search"><span>Quick view</span></i></a>
                                                 <!--                                      <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a>-->
                                                 <!--                                      <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> -->
@@ -748,7 +748,7 @@
                                         <div class="item-info">
                                             <div class="info-inner">
                                                 <div class="item-title"><a title="RESPIRADOR 6800"
-                                                                           href="single_product.html">RESPIRADOR
+                                                                           href="#">RESPIRADOR
                                                         6800</a>
                                                 </div>
                                                 <!--<div class="item-content">
@@ -767,13 +767,13 @@
                                     <div class="item-inner">
                                         <div class="product-thumb has-hover-img">
                                             <a title="MASCARILLA 8210"
-                                               href="single_product.html">
+                                               href="#">
                                                 <figure><img class="first-img" src="images/products/img03.jpg" alt="">
                                                     <img class="hover-img" src="images/products/img03.jpg" alt="">
                                                 </figure>
                                             </a>
-                                            <div class="pr-info-area animated animate4">
-                                                <a href="quick_view.html" class="quick-view"><i
+                                            <div class="pr-info-area animated animate2">
+                                                <a href="#" class="quick-view"><i
                                                             class="fa fa-search"><span>Quick view</span></i></a>
                                                 <!--<a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a>
 												   <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a>-->
@@ -782,7 +782,7 @@
                                         <div class="item-info">
                                             <div class="info-inner">
                                                 <div class="item-title"><a title="MASCARILLA 8210"
-                                                                           href="single_product.html">MASCARILLA
+                                                                           href="#">MASCARILLA
                                                         8210 </a>
                                                 </div>
                                                 <!--<div class="item-content">
@@ -798,17 +798,17 @@
                                 </div>
                                 <div class="product-item">
                                     <div class="item-inner">
-                                        <div class="icon-sale-label sale-left">Sale</div>
-                                        <div class="icon-new-label new-right">New</div>
+                                        <!--<div class="icon-sale-label sale-left">Sale</div>
+                                        <div class="icon-new-label new-right">New</div>-->
                                         <div class="product-thumb has-hover-img">
                                             <a title="CARTUCHO 6003"
-                                               href="single_product.html">
+                                               href="#">
                                                 <figure><img class="first-img" src="images/products/img04.jpg" alt="">
                                                     <img class="hover-img" src="images/products/img04.jpg" alt="">
                                                 </figure>
                                             </a>
-                                            <div class="pr-info-area animated animate4">
-                                                <a href="quick_view.html" class="quick-view"><i
+                                            <div class="pr-info-area animated animate2">
+                                                <a href="#" class="quick-view"><i
                                                             class="fa fa-search"><span>Quick view</span></i></a>
                                                 <!--<a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a>
 												   <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> -->
@@ -817,7 +817,7 @@
                                         <div class="item-info">
                                             <div class="info-inner">
                                                 <div class="item-title"><a title="CARTUCHO 6003"
-                                                                           href="single_product.html">CARTUCHO
+                                                                           href="#">CARTUCHO
                                                         6003 </a>
                                                 </div>
                                                 <!--<div class="item-content">
@@ -834,14 +834,14 @@
                                 <div class="product-item">
                                     <div class="item-inner">
                                         <div class="product-thumb has-hover-img">
-                                            <div class="icon-new-label new-left">New</div>
-                                            <a title="FILTRO 2097" href="single_product.html">
+<!--                                            <div class="icon-new-label new-left">New</div>-->
+                                            <a title="FILTRO 2097" href="#">
                                                 <figure><img class="first-img" src="images/products/img05.jpg" alt="">
                                                     <img class="hover-img" src="images/products/img05.jpg" alt="">
                                                 </figure>
                                             </a>
-                                            <div class="pr-info-area animated animate4">
-                                                <a href="quick_view.html" class="quick-view"><i
+                                            <div class="pr-info-area animated animate2">
+                                                <a href="#" class="quick-view"><i
                                                             class="fa fa-search"><span>Quick view</span></i></a>
                                                 <!--<a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a>
 												   <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a>-->
@@ -850,7 +850,7 @@
                                         <div class="item-info">
                                             <div class="info-inner">
                                                 <div class="item-title"><a title="FILTRO 2097"
-                                                                           href="single_product.html">FILTRO
+                                                                           href="#">FILTRO
                                                         2097 </a>
                                                 </div>
                                                 <!--<div class="item-content">
@@ -884,13 +884,13 @@
                                 <div class="product-item">
                                     <div class="item-inner">
                                         <div class="product-thumb has-hover-img">
-                                            <a title="Ipsums Dolors Untra" href="single_product.html">
+                                            <a title="Ipsums Dolors Untra" href="#">
                                                 <figure><img src="images/products/img06.jpg" alt=""> <img
                                                             class="hover-img" src="images/products/img06.jpg" alt="">
                                                 </figure>
                                             </a>
                                             <div class="pr-info-area animated animate2">
-                                                <a href="quick_view.html"
+                                                <a href="#"
                                                    class="quick-view"><i
                                                             class="fa fa-search"><span>Quick view</span></i></a>
 
@@ -899,7 +899,7 @@
                                         <div class="item-info">
                                             <div class="info-inner">
                                                 <div class="item-title"><a title="MAMELUCO DRILL CLASE 2 "
-                                                                           href="single_product.html">MAMELUCO DRILL
+                                                                           href="#">MAMELUCO DRILL
                                                         CLASE 2 </a>
                                                 </div>
 
@@ -911,37 +911,19 @@
                                     <div class="item-inner">
                                         <div class="product-thumb has-hover-img">
                                             <a title="Ipsums Dolors Untra"
-                                               href="single_product.html">
+                                               href="#">
                                                 <figure><img class="first-img" src="images/products/img07.jpg" alt="">
                                                     <img class="hover-img" src="images/products/img07.jpg" alt="">
                                                 </figure>
                                             </a>
-                                            <div class="pr-info-area animated animate4"><a href="quick_view.html"
+                                            <div class="pr-info-area animated animate2"><a href="#"
                                                                                            class="quick-view"><i
-                                                            class="fa fa-search"><span>Quick view</span></i></a> <a
-                                                        href="wishlist.html" class="wishlist"><i
-                                                            class="fa fa-heart"><span>Wishlist</span></i></a> <a
-                                                        href="compare.html" class="compare"><i
-                                                            class="fa fa-exchange"><span>Compare</span></i></a></div>
+                                                            class="fa fa-search"><span>Quick view</span></i></a> </div>
                                         </div>
                                         <div class="item-info">
                                             <div class="info-inner">
-                                                <div class="item-title"><a title="Ipsums Dolors Untra"
-                                                                           href="single_product.html">Ipsums Dolors
-                                                        Untra </a>
-                                                </div>
-                                                <div class="item-content">
-                                                    <div class="rating"><i class="fa fa-star-o"></i> <i
-                                                                class="fa fa-star-o"></i> <i class="fa fa-star-o"></i>
-                                                        <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i>
-                                                    </div>
-                                                    <div class="item-price">
-                                                        <div class="pro-action">
-                                                            <button type="button" class="add-to-cart-mt"><i
-                                                                        class="fa fa-shopping-cart"></i><span> Add to Cart</span>
-                                                            </button>
-                                                        </div>
-                                                    </div>
+                                                <div class="item-title"><a title="CAMISAS OXFORD"
+                                                                           href="#">CAMISAS OXFORD</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -951,35 +933,21 @@
                                     <div class="item-inner">
                                         <div class="product-thumb has-hover-img">
                                             <a title="Ipsums Dolors Untra"
-                                               href="single_product.html">
+                                               href="#">
                                                 <figure><img class="first-img" src="images/products/img08.jpg" alt="">
                                                     <img class="hover-img" src="images/products/img08.jpg" alt="">
                                                 </figure>
                                             </a>
-                                            <div class="pr-info-area animated animate4"><a href="quick_view.html"
-                                                                                           class="quick-view"><i
-                                                            class="fa fa-search"><span>Quick view</span></i></a> <a
-                                                        href="wishlist.html" class="wishlist"><i
-                                                            class="fa fa-heart"><span>Wishlist</span></i></a> <a
-                                                        href="compare.html" class="compare"><i
-                                                            class="fa fa-exchange"><span>Compare</span></i></a></div>
+                                            <div class="pr-info-area animated animate2">
+                                                <a href="#" class="quick-view">
+                                                    <i class="fa fa-search"><span>Quick view</span></i>
+                                                </a>
+                                            </div>
                                         </div>
                                         <div class="item-info">
                                             <div class="info-inner">
-                                                <div class="item-title"><a title="Ipsums Dolors Untra"
-                                                                           href="single_product.html">Ipsums Dolors
-                                                        Untra </a>
-                                                </div>
-                                                <div class="item-content">
-                                                    <div class="rating"><i class="fa fa-star-o"></i> <i
-                                                                class="fa fa-star-o"></i> <i class="fa fa-star-o"></i>
-                                                        <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i>
-                                                    </div>
-                                                    <div class="pro-action">
-                                                        <button type="button" class="add-to-cart-mt"><i
-                                                                    class="fa fa-shopping-cart"></i><span> Add to Cart</span>
-                                                        </button>
-                                                    </div>
+                                                <div class="item-title"><a title="CHALECOS EN TELA DRILL"
+                                                                           href="#">CHALECOS EN TELA DRILL</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -987,39 +955,24 @@
                                 </div>
                                 <div class="product-item">
                                     <div class="item-inner">
-                                        <div class="icon-sale-label sale-left">Sale</div>
-                                        <div class="icon-new-label new-right">New</div>
+                                        <!--<div class="icon-sale-label sale-left">Sale</div>
+                                        <div class="icon-new-label new-right">New</div>-->
                                         <div class="product-thumb has-hover-img">
                                             <a title="Ipsums Dolors Untra"
-                                               href="single_product.html">
+                                               href="#">
                                                 <figure><img class="first-img" src="images/products/img09.jpg" alt="">
                                                     <img class="hover-img" src="images/products/img09.jpg" alt="">
                                                 </figure>
                                             </a>
-                                            <div class="pr-info-area animated animate4"><a href="quick_view.html"
+                                            <div class="pr-info-area animated animate2"><a href="#"
                                                                                            class="quick-view"><i
-                                                            class="fa fa-search"><span>Quick view</span></i></a> <a
-                                                        href="wishlist.html" class="wishlist"><i
-                                                            class="fa fa-heart"><span>Wishlist</span></i></a> <a
-                                                        href="compare.html" class="compare"><i
-                                                            class="fa fa-exchange"><span>Compare</span></i></a></div>
+                                                            class="fa fa-search"><span>Quick view</span></i></a>
+                                            </div>
                                         </div>
                                         <div class="item-info">
                                             <div class="info-inner">
-                                                <div class="item-title"><a title="Ipsums Dolors Untra"
-                                                                           href="single_product.html">Ipsums Dolors
-                                                        Untra </a>
-                                                </div>
-                                                <div class="item-content">
-                                                    <div class="rating"><i class="fa fa-star-o"></i> <i
-                                                                class="fa fa-star-o"></i> <i class="fa fa-star-o"></i>
-                                                        <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i>
-                                                    </div>
-                                                    <div class="pro-action">
-                                                        <button type="button" class="add-to-cart-mt"><i
-                                                                    class="fa fa-shopping-cart"></i><span> Add to Cart</span>
-                                                        </button>
-                                                    </div>
+                                                <div class="item-title"><a title="UNIFORME DRILL"
+                                                                           href="#">UNIFORME DRILL</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1028,36 +981,21 @@
                                 <div class="product-item">
                                     <div class="item-inner">
                                         <div class="product-thumb has-hover-img">
-                                            <div class="icon-new-label new-left">New</div>
-                                            <a title="Ipsums Dolors Untra" href="single_product.html">
+<!--                                            <div class="icon-new-label new-left">New</div>-->
+                                            <a title="Ipsums Dolors Untra" href="#">
                                                 <figure><img class="first-img" src="images/products/img10.jpg" alt="">
                                                     <img class="hover-img" src="images/products/img10.jpg" alt="">
                                                 </figure>
                                             </a>
-                                            <div class="pr-info-area animated animate4"><a href="quick_view.html"
+                                            <div class="pr-info-area animated animate2"><a href="#"
                                                                                            class="quick-view"><i
-                                                            class="fa fa-search"><span>Quick view</span></i></a> <a
-                                                        href="wishlist.html" class="wishlist"><i
-                                                            class="fa fa-heart"><span>Wishlist</span></i></a> <a
-                                                        href="compare.html" class="compare"><i
-                                                            class="fa fa-exchange"><span>Compare</span></i></a></div>
+                                                            class="fa fa-search"><span>Quick view</span></i></a>
+                                            </div>
                                         </div>
                                         <div class="item-info">
                                             <div class="info-inner">
-                                                <div class="item-title"><a title="Ipsums Dolors Untra"
-                                                                           href="single_product.html">Ipsums Dolors
-                                                        Untra </a>
-                                                </div>
-                                                <div class="item-content">
-                                                    <div class="rating"><i class="fa fa-star-o"></i> <i
-                                                                class="fa fa-star-o"></i> <i class="fa fa-star-o"></i>
-                                                        <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i>
-                                                    </div>
-                                                    <div class="pro-action">
-                                                        <button type="button" class="add-to-cart-mt"><i
-                                                                    class="fa fa-shopping-cart"></i><span> Add to Cart</span>
-                                                        </button>
-                                                    </div>
+                                                <div class="item-title"><a title="POLO DE ALGODÓN"
+                                                                           href="#">POLO DE ALGODÓN</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1084,35 +1022,20 @@
                                     <div class="item-inner">
                                         <div class="product-thumb has-hover-img">
                                             <a title="Ipsums Dolors Untra"
-                                               href="single_product.html">
+                                               href="#">
                                                 <figure><img src="images/products/img11.jpg" alt=""> <img
                                                             class="hover-img" src="images/products/img11.jpg" alt="">
                                                 </figure>
                                             </a>
-                                            <div class="pr-info-area animated animate4"><a href="quick_view.html"
+                                            <div class="pr-info-area animated animate2"><a href="#"
                                                                                            class="quick-view"><i
-                                                            class="fa fa-search"><span>Quick view</span></i></a> <a
-                                                        href="wishlist.html" class="wishlist"><i
-                                                            class="fa fa-heart"><span>Wishlist</span></i></a> <a
-                                                        href="compare.html" class="compare"><i
-                                                            class="fa fa-exchange"><span>Compare</span></i></a></div>
+                                                            class="fa fa-search"><span>Quick view</span></i></a>
+                                            </div>
                                         </div>
                                         <div class="item-info">
                                             <div class="info-inner">
-                                                <div class="item-title"><a title="Ipsums Dolors Untra"
-                                                                           href="single_product.html">Ipsums Dolors
-                                                        Untra </a>
-                                                </div>
-                                                <div class="item-content">
-                                                    <div class="rating"><i class="fa fa-star-o"></i> <i
-                                                                class="fa fa-star-o"></i> <i class="fa fa-star-o"></i>
-                                                        <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i>
-                                                    </div>
-                                                    <div class="pro-action">
-                                                        <button type="button" class="add-to-cart-mt"><i
-                                                                    class="fa fa-shopping-cart"></i><span> Add to Cart</span>
-                                                        </button>
-                                                    </div>
+                                                <div class="item-title"><a title="GUANTES SUPERFLEX"
+                                                                           href="#">GUANTES SUPERFLEX</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1122,37 +1045,20 @@
                                     <div class="item-inner">
                                         <div class="product-thumb has-hover-img">
                                             <a title="Ipsums Dolors Untra"
-                                               href="single_product.html">
+                                               href="#">
                                                 <figure><img class="first-img" src="images/products/img12.jpg" alt="">
                                                     <img class="hover-img" src="images/products/img12.jpg" alt="">
                                                 </figure>
                                             </a>
-                                            <div class="pr-info-area animated animate4"><a href="quick_view.html"
+                                            <div class="pr-info-area animated animate2"><a href="#"
                                                                                            class="quick-view"><i
-                                                            class="fa fa-search"><span>Quick view</span></i></a> <a
-                                                        href="wishlist.html" class="wishlist"><i
-                                                            class="fa fa-heart"><span>Wishlist</span></i></a> <a
-                                                        href="compare.html" class="compare"><i
-                                                            class="fa fa-exchange"><span>Compare</span></i></a></div>
+                                                            class="fa fa-search"><span>Quick view</span></i></a>
+                                            </div>
                                         </div>
                                         <div class="item-info">
                                             <div class="info-inner">
-                                                <div class="item-title"><a title="Ipsums Dolors Untra"
-                                                                           href="single_product.html">Ipsums Dolors
-                                                        Untra </a>
-                                                </div>
-                                                <div class="item-content">
-                                                    <div class="rating"><i class="fa fa-star-o"></i> <i
-                                                                class="fa fa-star-o"></i> <i class="fa fa-star-o"></i>
-                                                        <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i>
-                                                    </div>
-                                                    <div class="item-price">
-                                                        <div class="pro-action">
-                                                            <button type="button" class="add-to-cart-mt"><i
-                                                                        class="fa fa-shopping-cart"></i><span> Add to Cart</span>
-                                                            </button>
-                                                        </div>
-                                                    </div>
+                                                <div class="item-title"><a title="GUANTE DE BADANA"
+                                                                           href="#">GUANTE DE BADANA</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1162,35 +1068,20 @@
                                     <div class="item-inner">
                                         <div class="product-thumb has-hover-img">
                                             <a title="Ipsums Dolors Untra"
-                                               href="single_product.html">
+                                               href="#">
                                                 <figure><img class="first-img" src="images/products/img13.jpg" alt="">
                                                     <img class="hover-img" src="images/products/img13.jpg" alt="">
                                                 </figure>
                                             </a>
-                                            <div class="pr-info-area animated animate4"><a href="quick_view.html"
+                                            <div class="pr-info-area animated animate2"><a href="#"
                                                                                            class="quick-view"><i
-                                                            class="fa fa-search"><span>Quick view</span></i></a> <a
-                                                        href="wishlist.html" class="wishlist"><i
-                                                            class="fa fa-heart"><span>Wishlist</span></i></a> <a
-                                                        href="compare.html" class="compare"><i
-                                                            class="fa fa-exchange"><span>Compare</span></i></a></div>
+                                                            class="fa fa-search"><span>Quick view</span></i></a>
+                                            </div>
                                         </div>
                                         <div class="item-info">
                                             <div class="info-inner">
-                                                <div class="item-title"><a title="Ipsums Dolors Untra"
-                                                                           href="single_product.html">Ipsums Dolors
-                                                        Untra </a>
-                                                </div>
-                                                <div class="item-content">
-                                                    <div class="rating"><i class="fa fa-star-o"></i> <i
-                                                                class="fa fa-star-o"></i> <i class="fa fa-star-o"></i>
-                                                        <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i>
-                                                    </div>
-                                                    <div class="pro-action">
-                                                        <button type="button" class="add-to-cart-mt"><i
-                                                                    class="fa fa-shopping-cart"></i><span> Add to Cart</span>
-                                                        </button>
-                                                    </div>
+                                                <div class="item-title"><a title="GUANTE SOLDADOR IMPORTADO"
+                                                                           href="#">GUANTE SOLDADOR IMPORTADO</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1199,36 +1090,20 @@
                                 <div class="product-item">
                                     <div class="item-inner">
                                         <div class="product-thumb has-hover-img">
-                                            <a title="Ipsums Dolors Untra"
-                                               href="single_product.html">
+                                            <a title="GUANTES MALLA DE ACERO" href="#">
                                                 <figure><img class="first-img" src="images/products/img14.jpg" alt="">
                                                     <img class="hover-img" src="images/products/img14.jpg" alt="">
                                                 </figure>
                                             </a>
-                                            <div class="pr-info-area animated animate4"><a href="quick_view.html"
+                                            <div class="pr-info-area animated animate2"><a href="#"
                                                                                            class="quick-view"><i
-                                                            class="fa fa-search"><span>Quick view</span></i></a> <a
-                                                        href="wishlist.html" class="wishlist"><i
-                                                            class="fa fa-heart"><span>Wishlist</span></i></a> <a
-                                                        href="compare.html" class="compare"><i
-                                                            class="fa fa-exchange"><span>Compare</span></i></a></div>
+                                                            class="fa fa-search"><span>Quick view</span></i></a>
+                                            </div>
                                         </div>
                                         <div class="item-info">
                                             <div class="info-inner">
-                                                <div class="item-title"><a title="Ipsums Dolors Untra"
-                                                                           href="single_product.html">Ipsums Dolors
-                                                        Untra </a>
-                                                </div>
-                                                <div class="item-content">
-                                                    <div class="rating"><i class="fa fa-star-o"></i> <i
-                                                                class="fa fa-star-o"></i> <i class="fa fa-star-o"></i>
-                                                        <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i>
-                                                    </div>
-                                                    <div class="pro-action">
-                                                        <button type="button" class="add-to-cart-mt"><i
-                                                                    class="fa fa-shopping-cart"></i><span> Add to Cart</span>
-                                                        </button>
-                                                    </div>
+                                                <div class="item-title"><a title="GUANTES MALLA DE ACERO"
+                                                                           href="#">GUANTES MALLA DE ACERO</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1237,35 +1112,20 @@
                                 <div class="product-item">
                                     <div class="item-inner">
                                         <div class="product-thumb has-hover-img">
-                                            <a title="Ipsums Dolors Untra" href="single_product.html">
+                                            <a title="GUANTES NITRON" href="#">
                                                 <figure><img class="first-img" src="images/products/img15.jpg" alt="">
                                                     <img class="hover-img" src="images/products/img15.jpg" alt="">
                                                 </figure>
                                             </a>
-                                            <div class="pr-info-area animated animate4"><a href="quick_view.html"
+                                            <div class="pr-info-area animated animate2"><a href="#"
                                                                                            class="quick-view"><i
-                                                            class="fa fa-search"><span>Quick view</span></i></a> <a
-                                                        href="wishlist.html" class="wishlist"><i
-                                                            class="fa fa-heart"><span>Wishlist</span></i></a> <a
-                                                        href="compare.html" class="compare"><i
-                                                            class="fa fa-exchange"><span>Compare</span></i></a></div>
+                                                            class="fa fa-search"><span>Quick view</span></i></a>
+                                            </div>
                                         </div>
                                         <div class="item-info">
                                             <div class="info-inner">
-                                                <div class="item-title"><a title="Ipsums Dolors Untra"
-                                                                           href="single_product.html">Ipsums Dolors
-                                                        Untra </a>
-                                                </div>
-                                                <div class="item-content">
-                                                    <div class="rating"><i class="fa fa-star-o"></i> <i
-                                                                class="fa fa-star-o"></i> <i class="fa fa-star-o"></i>
-                                                        <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i>
-                                                    </div>
-                                                    <div class="pro-action">
-                                                        <button type="button" class="add-to-cart-mt"><i
-                                                                    class="fa fa-shopping-cart"></i><span> Add to Cart</span>
-                                                        </button>
-                                                    </div>
+                                                <div class="item-title"><a title="GUANTES NITRON"
+                                                                           href="#">GUANTES NITRON</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1291,36 +1151,20 @@
                                 <div class="product-item">
                                     <div class="item-inner">
                                         <div class="product-thumb has-hover-img">
-                                            <a title="Ipsums Dolors Untra"
-                                               href="single_product.html">
+                                            <a title="LENTES VIRTUAL PLUS" href="#">
                                                 <figure><img src="images/products/img16.jpg" alt=""> <img
                                                             class="hover-img" src="images/products/img16.jpg" alt="">
                                                 </figure>
                                             </a>
-                                            <div class="pr-info-area animated animate4"><a href="quick_view.html"
+                                            <div class="pr-info-area animated animate2"><a href="#"
                                                                                            class="quick-view"><i
-                                                            class="fa fa-search"><span>Quick view</span></i></a> <a
-                                                        href="wishlist.html" class="wishlist"><i
-                                                            class="fa fa-heart"><span>Wishlist</span></i></a> <a
-                                                        href="compare.html" class="compare"><i
-                                                            class="fa fa-exchange"><span>Compare</span></i></a></div>
+                                                            class="fa fa-search"><span>Quick view</span></i></a>
+                                            </div>
                                         </div>
                                         <div class="item-info">
                                             <div class="info-inner">
-                                                <div class="item-title"><a title="Ipsums Dolors Untra"
-                                                                           href="single_product.html">Ipsums Dolors
-                                                        Untra </a>
-                                                </div>
-                                                <div class="item-content">
-                                                    <div class="rating"><i class="fa fa-star-o"></i> <i
-                                                                class="fa fa-star-o"></i> <i class="fa fa-star-o"></i>
-                                                        <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i>
-                                                    </div>
-                                                    <div class="pro-action">
-                                                        <button type="button" class="add-to-cart-mt"><i
-                                                                    class="fa fa-shopping-cart"></i><span> Add to Cart</span>
-                                                        </button>
-                                                    </div>
+                                                <div class="item-title"><a title="LENTES VIRTUAL PLUS"
+                                                                           href="#">LENTES VIRTUAL PLUS</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1329,38 +1173,20 @@
                                 <div class="product-item">
                                     <div class="item-inner">
                                         <div class="product-thumb has-hover-img">
-                                            <a title="Ipsums Dolors Untra"
-                                               href="single_product.html">
+                                            <a title="LENTES CLÁSICOS 3M" href="#">
                                                 <figure><img class="first-img" src="images/products/img17.jpg" alt="">
                                                     <img class="hover-img" src="images/products/img17.jpg" alt="">
                                                 </figure>
                                             </a>
-                                            <div class="pr-info-area animated animate4"><a href="quick_view.html"
+                                            <div class="pr-info-area animated animate2"><a href="#"
                                                                                            class="quick-view"><i
-                                                            class="fa fa-search"><span>Quick view</span></i></a> <a
-                                                        href="wishlist.html" class="wishlist"><i
-                                                            class="fa fa-heart"><span>Wishlist</span></i></a> <a
-                                                        href="compare.html" class="compare"><i
-                                                            class="fa fa-exchange"><span>Compare</span></i></a></div>
+                                                            class="fa fa-search"><span>Quick view</span></i></a>
+                                            </div>
                                         </div>
                                         <div class="item-info">
                                             <div class="info-inner">
-                                                <div class="item-title"><a title="Ipsums Dolors Untra"
-                                                                           href="single_product.html">Ipsums Dolors
-                                                        Untra </a>
-                                                </div>
-                                                <div class="item-content">
-                                                    <div class="rating"><i class="fa fa-star-o"></i> <i
-                                                                class="fa fa-star-o"></i> <i class="fa fa-star-o"></i>
-                                                        <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i>
-                                                    </div>
-                                                    <div class="item-price">
-                                                        <div class="pro-action">
-                                                            <button type="button" class="add-to-cart-mt"><i
-                                                                        class="fa fa-shopping-cart"></i><span> Add to Cart</span>
-                                                            </button>
-                                                        </div>
-                                                    </div>
+                                                <div class="item-title"><a title="LENTES CLÁSICOS 3M"
+                                                                           href="#">LENTES CLÁSICOS 3M</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1369,36 +1195,20 @@
                                 <div class="product-item">
                                     <div class="item-inner">
                                         <div class="product-thumb has-hover-img">
-                                            <a title="Ipsums Dolors Untra"
-                                               href="single_product.html">
+                                            <a title="SOBRE LENTES OX1000" href="#">
                                                 <figure><img class="first-img" src="images/products/img18.jpg" alt="">
                                                     <img class="hover-img" src="images/products/img18.jpg" alt="">
                                                 </figure>
                                             </a>
-                                            <div class="pr-info-area animated animate4"><a href="quick_view.html"
+                                            <div class="pr-info-area animated animate2"><a href="#"
                                                                                            class="quick-view"><i
-                                                            class="fa fa-search"><span>Quick view</span></i></a> <a
-                                                        href="wishlist.html" class="wishlist"><i
-                                                            class="fa fa-heart"><span>Wishlist</span></i></a> <a
-                                                        href="compare.html" class="compare"><i
-                                                            class="fa fa-exchange"><span>Compare</span></i></a></div>
+                                                            class="fa fa-search"><span>Quick view</span></i></a>
+                                            </div>
                                         </div>
                                         <div class="item-info">
                                             <div class="info-inner">
-                                                <div class="item-title"><a title="Ipsums Dolors Untra"
-                                                                           href="single_product.html">Ipsums Dolors
-                                                        Untra </a>
-                                                </div>
-                                                <div class="item-content">
-                                                    <div class="rating"><i class="fa fa-star-o"></i> <i
-                                                                class="fa fa-star-o"></i> <i class="fa fa-star-o"></i>
-                                                        <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i>
-                                                    </div>
-                                                    <div class="pro-action">
-                                                        <button type="button" class="add-to-cart-mt"><i
-                                                                    class="fa fa-shopping-cart"></i><span> Add to Cart</span>
-                                                        </button>
-                                                    </div>
+                                                <div class="item-title"><a title="SOBRE LENTES OX1000"
+                                                                           href="#">SOBRE LENTES OX1000</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1406,38 +1216,22 @@
                                 </div>
                                 <div class="product-item">
                                     <div class="item-inner">
-                                        <div class="icon-new-label new-right">Nuevo</div>
-                                        <div class="product-thumb has-hover-img">
-                                            <a title="Ipsums Dolors Untra"
-                                               href="single_product.html">
+<!--                                        <div class="icon-new-label new-right">Nuevo</div>
+-->                                        <div class="product-thumb has-hover-img">
+                                            <a title="LENTES ALTIMETER MSA" href="#">
                                                 <figure><img class="first-img" src="images/products/img19.jpg" alt="">
                                                     <img class="hover-img" src="images/products/img19.jpg" alt="">
                                                 </figure>
                                             </a>
-                                            <div class="pr-info-area animated animate4"><a href="quick_view.html"
+                                            <div class="pr-info-area animated animate2"><a href="#"
                                                                                            class="quick-view"><i
-                                                            class="fa fa-search"><span>Quick view</span></i></a> <a
-                                                        href="wishlist.html" class="wishlist"><i
-                                                            class="fa fa-heart"><span>Wishlist</span></i></a> <a
-                                                        href="compare.html" class="compare"><i
-                                                            class="fa fa-exchange"><span>Compare</span></i></a></div>
+                                                            class="fa fa-search"><span>Quick view</span></i></a>
+                                            </div>
                                         </div>
                                         <div class="item-info">
                                             <div class="info-inner">
-                                                <div class="item-title"><a title="Ipsums Dolors Untra"
-                                                                           href="single_product.html">Ipsums Dolors
-                                                        Untra </a>
-                                                </div>
-                                                <div class="item-content">
-                                                    <div class="rating"><i class="fa fa-star-o"></i> <i
-                                                                class="fa fa-star-o"></i> <i class="fa fa-star-o"></i>
-                                                        <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i>
-                                                    </div>
-                                                    <div class="pro-action">
-                                                        <button type="button" class="add-to-cart-mt"><i
-                                                                    class="fa fa-shopping-cart"></i><span> Add to Cart</span>
-                                                        </button>
-                                                    </div>
+                                                <div class="item-title"><a title="LENTES ALTIMETER MSA"
+                                                                           href="#">LENTES ALTIMETER MSA</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1446,35 +1240,20 @@
                                 <div class="product-item">
                                     <div class="item-inner">
                                         <div class="product-thumb has-hover-img">
-                                            <a title="Ipsums Dolors Untra" href="single_product.html">
+                                            <a title="LENTES GOOGLE" href="#">
                                                 <figure><img class="first-img" src="images/products/img20.jpg" alt="">
                                                     <img class="hover-img" src="images/products/img20.jpg" alt="">
                                                 </figure>
                                             </a>
-                                            <div class="pr-info-area animated animate4"><a href="quick_view.html"
+                                            <div class="pr-info-area animated animate2"><a href="#"
                                                                                            class="quick-view"><i
-                                                            class="fa fa-search"><span>Quick view</span></i></a> <a
-                                                        href="wishlist.html" class="wishlist"><i
-                                                            class="fa fa-heart"><span>Wishlist</span></i></a> <a
-                                                        href="compare.html" class="compare"><i
-                                                            class="fa fa-exchange"><span>Compare</span></i></a></div>
+                                                            class="fa fa-search"><span>Quick view</span></i></a>
+                                            </div>
                                         </div>
                                         <div class="item-info">
                                             <div class="info-inner">
-                                                <div class="item-title"><a title="Ipsums Dolors Untra"
-                                                                           href="single_product.html">Ipsums Dolors
-                                                        Untra </a>
-                                                </div>
-                                                <div class="item-content">
-                                                    <div class="rating"><i class="fa fa-star-o"></i> <i
-                                                                class="fa fa-star-o"></i> <i class="fa fa-star-o"></i>
-                                                        <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i>
-                                                    </div>
-                                                    <div class="pro-action">
-                                                        <button type="button" class="add-to-cart-mt"><i
-                                                                    class="fa fa-shopping-cart"></i><span> Add to Cart</span>
-                                                        </button>
-                                                    </div>
+                                                <div class="item-title"><a title="LENTES GOOGLE"
+                                                                           href="#">LENTES GOOGLE</a>
                                                 </div>
                                             </div>
                                         </div>
