@@ -199,7 +199,7 @@ Christopher Ramirez
                             <ul>
                                 <li class="mt-root demo_custom_link_cms">
                                     <div class="mt-root-item">
-                                        <a href="/">
+                                        <a href="/" class="active">
                                             <div class="title title_font"><span class="title-text">Inicio</span></div>
                                         </a>
                                     </div>
@@ -211,160 +211,9 @@ Christopher Ramirez
                                         </a>
                                     </div>
                                 </li>
-                                <li class="mt-root" style="display: none">
-                                    <div class="mt-root-item">
-                                        <a href="#">
-                                            <div class="title title_font"><span class="title-text">Productos</span>
-                                            </div>
-                                        </a>
-                                    </div>
-                                    <ul class="menu-items col-xs-12">
-                                        <li class="menu-item depth-1 menucol-1-3 ">
-                                            <div class="title title_font"><a href="#"> Shop Pages </a></div>
-                                            <ul class="submenu">
-                                                <li class="menu-item">
-                                                    <div class="title"><a href="#"> Shop grid </a></div>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <div class="title"><a href="shop_grid_right_sidebar.html"> Shop grid
-                                                            right sidebar</a>
-                                                    </div>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <div class="title"><a href="shop_list.html"> Shop list </a></div>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <div class="title"><a href="shop_list_right_sidebar.html"> Shop list
-                                                            right sidebar</a>
-                                                    </div>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <div class="title"><a href="shop_grid_full_width.html"> Shop grid
-                                                            full width </a>
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item depth-1 menucol-1-3 ">
-                                            <div class="title title_font"><a href="#"> Ecommerce Pages </a></div>
-                                            <ul class="submenu">
-                                                <li class="menu-item">
-                                                    <div class="title"><a href="wishlist.html"> Wishlists </a></div>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <div class="title"><a href="checkout.html"> Checkout </a></div>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <div class="title"><a href="compare.html"> Compare </a></div>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <div class="title"><a href="shopping_cart.html"> Shopping cart </a>
-                                                    </div>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <div class="title"><a href="#"> Quick View </a></div>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item depth-1 menucol-1-3 ">
-                                            <div class="title title_font"><a href="#"> Static Pages </a></div>
-                                            <ul class="submenu">
-                                                <li class="menu-item depth-2 category ">
-                                                    <div class="title"><a href="account_page.html"> Create Account
-                                                            Page </a>
-                                                    </div>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <div class="title"><a href="about_us.html"> About Us </a></div>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <div class="title"><a href="contact_us.html"> Contact us </a></div>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <div class="title"><a href="404error.html"> Error 404 </a></div>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <div class="title"><a href="faq.html"> FAQ </a></div>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item depth-1 menucol-1-3 ">
-                                            <div class="title title_font"><a href="#"> Product Categories </a></div>
-                                            <ul class="submenu">
-                                                <li class="menu-item">
-                                                    <div class="title"><a href="cat-3-col.html"> 3 Column Sidebar </a>
-                                                    </div>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <div class="title"><a href="cat-4-col.html"> 4 Column Sidebar</a>
-                                                    </div>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <div class="title"><a href="cat-4-col-full.html"> 4 Column Full
-                                                            width </a>
-                                                    </div>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <div class="title"><a href="cat-6-col.html"> 6 Columns Full
-                                                            width</a>
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item depth-1 menucol-1-3 ">
-                                            <div class="title title_font"><a href="#"> Single Product Pages </a></div>
-                                            <ul class="submenu">
-                                                <li class="menu-item">
-                                                    <div class="title"><a href="#"> single
-                                                            product </a>
-                                                    </div>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <div class="title"><a href="single_product_left_sidebar.html">
-                                                            single product left sidebar</a>
-                                                    </div>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <div class="title"><a href="single_product_right_sidebar.html">
-                                                            single product right sidebar</a>
-                                                    </div>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <div class="title"><a href="single_product_magnify_zoom.html">
-                                                            single product magnify zoom</a>
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item depth-1 menucol-1-3 ">
-                                            <div class="title title_font"><a href="#"> Blog Pages </a></div>
-                                            <ul class="submenu">
-                                                <li class="menu-item">
-                                                    <div class="title"><a href="#"> Blog – Right
-                                                            Sidebar </a>
-                                                    </div>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <div class="title"><a href="#"> Blog – Left
-                                                            Sidebar </a>
-                                                    </div>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <div class="title"><a href="#"> Blog –
-                                                            Full-Width </a>
-                                                    </div>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <div class="title"><a href="#"> Single post </a>
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
                                 <li class="mt-root">
                                     <div class="mt-root-item">
-                                        <a href="contact_us.html">
+                                        <a href="contacto.php">
                                             <div class="title title_font"><span class="title-text">Contacto</span></div>
                                         </a>
                                     </div>
@@ -1323,118 +1172,13 @@ Christopher Ramirez
                 </div>
             </div>
         </div>
-        <!--<div class="container">
-		   <div class="row">
-			   <div class="col-sm-6 col-md-3 col-xs-12 col-lg-2 collapsed-block">
-				   <div class="footer-links">
-					   <h3 class="links-title">Information<a class="expander visible-xs" href="#TabBlock-1">+</a></h3>
-					   <div class="tabBlock" id="TabBlock-1">
-						   <ul class="list-links list-unstyled">
-							   <li><a href="#s">Delivery Information</a></li>
-							   <li><a href="#">Discount</a></li>
-							   <li><a href="sitemap.html">Sitemap</a></li>
-							   <li><a href="#">Privacy Policy</a></li>
-							   <li><a href="faq.html">FAQs</a></li>
-							   <li><a href="#">Terms &amp; Condition</a></li>
-						   </ul>
-					   </div>
-				   </div>
-			   </div>
-			   <div class="col-sm-6 col-md-3 col-xs-12 col-lg-2 collapsed-block">
-				   <div class="footer-links">
-					   <h3 class="links-title">Insider<a class="expander visible-xs" href="#TabBlock-3">+</a></h3>
-					   <div class="tabBlock" id="TabBlock-3">
-						   <ul class="list-links list-unstyled">
-							   <li><a href="sitemap.html">Sites Map </a></li>
-							   <li><a href="#">News</a></li>
-							   <li><a href="#">Trends</a></li>
-							   <li><a href="about_us.html">About Us</a></li>
-							   <li><a href="contact_us.html">Contact Us</a></li>
-							   <li><a href="#">My Orders</a></li>
-						   </ul>
-					   </div>
-				   </div>
-			   </div>
-			   <div class="col-sm-6 col-md-2 col-xs-12 col-lg-2 collapsed-block">
-				   <div class="footer-links">
-					   <h3 class="links-title">Service<a class="expander visible-xs" href="#TabBlock-4">+</a></h3>
-					   <div class="tabBlock" id="TabBlock-4">
-						   <ul class="list-links list-unstyled">
-							   <li><a href="account_page.html">Account</a></li>
-							   <li><a href="wishlist.html">Wishlist</a></li>
-							   <li><a href="shopping_cart.html">Shopping Cart</a></li>
-							   <li><a href="#">Return Policy</a></li>
-							   <li><a href="#">Special</a></li>
-							   <li><a href="#">Lookbook</a></li>
-						   </ul>
-					   </div>
-				   </div>
-			   </div>
-			   <div class="col-sm-6 col-md-4 col-xs-12 col-lg-3">
-				   <h3 class="links-title">Contact us</h3>
-				   <p>Lorem Ipsum is simply dummy text of the print and typesetting industry.</p>
-				   <div class="footer-content">
-					   <div class="email"><i class="fa fa-envelope"></i>
-						   <p>Support@themes.com</p>
-					   </div>
-					   <div class="phone"><i class="fa fa-phone"></i>
-						   <p>(800) 0123 456 789</p>
-					   </div>
-					   <div class="address"><i class="fa fa-map-marker"></i>
-						   <p> My Company, 12/34 - West 21st Street, New York, USA</p>
-					   </div>
-				   </div>
-			   </div>
-			   <div class="col-sm-12 col-md-12 col-xs-12 col-lg-3">
-				   <div class="footer-links">
-					   <div class="footer-newsletter">
-						   <h3 class="links-title">Sign up for newsletter</h3>
-						   <form id="newsletter-validate-detail" method="post" action="#">
-							   <div class="newsletter-inner">
-								   <input class="newsletter-email" name='Email' placeholder='Enter Your Email'/>
-								   <button class="button subscribe" type="submit" title="Subscribe">Subscribe</button>
-							   </div>
-						   </form>
-					   </div>
-					   <div class="social">
-						   <ul class="inline-mode">
-							   <li class="social-network fb"><a title="Connect us on Facebook" target="_blank"
-																href="https://www.facebook.com/"><i
-											   class="fa fa-facebook"></i></a></li>
-							   <li class="social-network googleplus"><a title="Connect us on Google+" target="_blank"
-																		href="https://plus.google.com/"><i
-											   class="fa fa-google-plus"></i></a></li>
-							   <li class="social-network tw"><a title="Connect us on Twitter" target="_blank"
-																href="https://twitter.com/"><i
-											   class="fa fa-twitter"></i></a></li>
-							   <li class="social-network linkedin"><a title="Connect us on Linkedin" target="_blank"
-																	  href="https://www.pinterest.com/"><i
-											   class="fa fa-linkedin"></i></a></li>
-							   <li class="social-network rss"><a title="Connect us on Instagram" target="_blank"
-																 href="https://instagram.com/"><i
-											   class="fa fa-rss"></i></a></li>
-						   </ul>
-					   </div>
-				   </div>
-			   </div>
-		   </div>
-		   </div>-->
+
         <div class="footer-coppyright">
             <div class="container">
                 <div class="row">
-                    <div class="col-sm-6 col-xs-12 coppyright"> Copyright © 2017 <a href="#"> MAXSEGURIDAD </a>. All
+                    <div class="col-sm-6 col-xs-12 coppyright"> Copyright © <?php echo date('Y')?>  <a href="#"> MAXSEGURIDAD </a>. All
                         Rights Reserved.
                     </div>
-                    <!--  <div class="col-sm-6 col-xs-12">
-					   <div class="payment">
-						 <ul>
-						   <li><a href="#"><img title="Visa" alt="Visa" src="images/visa.png"></a></li>
-						   <li><a href="#"><img title="Paypal" alt="Paypal" src="images/paypal.png"></a></li>
-						   <li><a href="#"><img title="Discover" alt="Discover" src="images/discover.png"></a></li>
-						   <li><a href="#"><img title="Master Card" alt="Master Card" src="images/master-card.png"></a></li>
-						 </ul>
-					   </div>
-						</div>-->
                 </div>
             </div>
         </div>
@@ -1568,6 +1312,5 @@ Christopher Ramirez
 
     });	//ready
 </script>
-
 </body>
 </html>

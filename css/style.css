@@ -2977,7 +2977,7 @@ footer .footer-links ul li a:hover {
 }
 .email .fa-envelope:before {
 	font-size: 13px;
-	color: #666;
+	color: #ff8000;;
 	height: 35px;
 	width: 35px;
 	line-height: 32px;
@@ -3011,7 +3011,7 @@ footer .footer-links ul li a:hover {
 }
 .address .fa-map-marker:before {
 	font-size: 15px;
-	color: #666;
+	color: #ff8000;;
 	height: 35px;
 	width: 35px;
 	line-height: 32px;
@@ -3027,7 +3027,7 @@ footer .footer-links ul li a:hover {
 .phone .fa-phone:before {
 	border: 1px solid #eaeaea;
 	border-radius: 25px;
-	color: #666;
+	color: #ff8000;;
 	display: inline-block;
 	font-size: 15px;
 	font-style: normal;
@@ -3037,6 +3037,21 @@ footer .footer-links ul li a:hover {
 	margin-bottom: 8px;
 	text-align: center;
 	width: 35px;
+	background: #fafafa;
+}
+.hour .fa-clock-o:before {
+	font-size: 15px;
+	color: #ff8000;;
+	height: 35px;
+	width: 35px;
+	line-height: 32px;
+	display: inline-block;
+	font-style: normal;
+	text-align: center;
+	margin-right: 5px;
+	margin-bottom: 8px;
+	border-radius: 30px;
+	border: 1px solid #eaeaea;
 	background: #fafafa;
 }
 .footer-content p {
@@ -3698,13 +3713,15 @@ nav a:hover {
 	-moz-transition: all .3s ease-in-out 0s;
 	-ms-transition: all .3s ease-in-out 0s;
 	-o-transition: all .3s ease-in-out 0s;
-	border-radius: 4px
+	border-radius: 4px;
+
 }
 .mtmegamenu>ul>li.active:hover, .menu-bottom .menu-bottom-dec a:hover {
-	border-color: #FF8000
+	border-color: #FF8000;
 }
 .mtmegamenu a.active .title.title_font span {
-	color: #bff9d8
+	color:#FF8000;
+
 }
 .custom-menu-bottom img {
 	float: left;
